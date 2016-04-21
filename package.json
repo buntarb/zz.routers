@@ -1,0 +1,19 @@
+{
+	"name": "zz.routers",
+	"version": "20160421.0.0",
+	"description": "Routers modules for imazzine-developer-lib.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.routers/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.routers.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
