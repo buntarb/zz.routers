@@ -1,6 +1,6 @@
 {
 	"name": "zz.routers",
-	"version": "20160421.0.0",
+	"version": "20160421.0.1",
 	"description": "Routers modules for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -14,6 +14,8 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+		"zz.events": "",
+		"zz.services": ""
 	}
 }
